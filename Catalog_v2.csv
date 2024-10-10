@@ -49,7 +49,7 @@ FAMILY,Santa Cruz ,PRODUCT,Santa Cruz ,Family code for Santa Cruz ,http://lightt
 FAMILY,Stinson ,PRODUCT,Stinson ,Family code for Stinson ,http://lighttree.com/Stinson 
 LINE,Rural,PRODUCT,Rural,Line code for Rural,http://lighttree.com/Rural
 LINE,City,PRODUCT,City,Line code for City,http://lighttree.com/City
-LINE,Special application,PRODUCT,Special application,Line code for Special application,http://light|tree.com/Special application
+MOOD,Special application,PRODUCT,Special application,Line code for Special application,http://light|tree.com/Special application
 LINE,Traffic,PRODUCT,Traffic,Line code for Traffic,http://lighttree.com/Traffic
 CATEGORY,Bulbs,ITEM,Bulbs,Category code for Bulbs,http://lighttree.com/Bulbs
 CATEGORY,Controllers,ITEM,Controllers,Category code for Controllers,http://lighttree.com/Controllers
@@ -61,5 +61,6 @@ CATEGORY,Mechanicals,ITEM,Mechanicals,Category code for Mechanicals,http://light
 CATEGORY,Primary Chassis,ITEM,Primary Chassis,Category code for Primary Chassis,http://lighttree.com/Primary Chassis
 CATEGORY,Primary Foundation,ITEM,Primary Foundation,Category code for Primary Foundation,http://lighttree.com/Primary Foundation
 CATEGORY,Secondary Chassis,ITEM,Secondary Chassis,Category code for Secondary Chassis,http://lighttree.com/Secondary Chassis
+CHALE, ME2, CANSE2, DE2, VIVIR2, :( 2
 hola ,mundo ,a ,tengo ,un ,gato 
 CHALE,ME ,HUBIERA ,IDO ,AL,IPN 

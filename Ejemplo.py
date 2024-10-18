@@ -1,3 +1,5 @@
+#Examen Final Pensamiento computaciónal :P 
+
 import time 
 inicio = time.time()
 time.sleep(1)
